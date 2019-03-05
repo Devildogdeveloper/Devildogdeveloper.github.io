@@ -581,7 +581,7 @@ p.b_label {
 }
 .education-w3l {
     padding: 8.1em 4em;
-    background: #f3f2f2;
+    /*background: #f3f2f2;*/
 }
 .education-agile-w3l-info h4 ,.education-agile-w3l-year h4{
     font-size: 1.6em;
