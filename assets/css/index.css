@@ -983,6 +983,16 @@ p.counter {
     color:deepskyblue;
     text-decoration:underline;
 }
+.skyBlue{
+    color: deepskyblue;
+}
+.hearts{
+    color: darkred;
+}
+.footerImages{
+    max-height: 30px;
+    max-width: 30px;
+}
 .footer_pos p a:hover{
     color:#fff;
 }
